@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HOhmie</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="band_color_prompt">Pick a Band Color</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="color_array">
+	   <item>Black</item>
+	   <item>Brown</item>
+	   <item>Red</item>
+	   <item>Orange</item>
+	   <item>Yellow</item>
+	   <item>Green</item>
+	   <item>Blue</item>
+	   <item>Violet</item>
+	   <item>Grey</item>
+	   <item>White</item>
+	   <item>Gold</item>
+	   <item>Silver</item>
+    </string-array>
+    
+
+</resources>
